@@ -72,11 +72,12 @@ body {
 }
 
 .header__menu {
-  font-size: 35px;
+  font-size: 30px;
   text-decoration: none;
   margin: 10px auto;
   display: block;
   width: 44px;
+  height: 44px;
 }
 
 /* Navbar */
