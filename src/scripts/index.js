@@ -34,7 +34,7 @@ document.addEventListener("DOMContentLoaded", async () => {
 
   objData.forEach((data) => {
     postElement += `
-            <div class="post-item">
+            <div class="post-item" tabindex="0">
             <img
                 src="${data.pictureId}"
                 alt="${data.name}"
